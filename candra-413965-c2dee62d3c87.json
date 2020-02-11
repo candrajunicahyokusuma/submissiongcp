@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "candra-413965",
+  "private_key_id": "c2dee62d3c87807be1fd54a22115f884ec0a3df7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSLkdKjbmI2LuQ\nBD9ZKUCxR7aKZ0+Z4iOqEWA1qULP0qCHbprFFQ6H/+oBk3owiO2byMbxxpj05ab1\nQfkCrqXGC9OoEnV3yn3rVJ3qmuS40th0jsv+TXJjg4BKbEDQirg/nMXjbfvUzLPC\nTpIOgLkUo6hCRgX0Ov+FyoNw6QGQKEx4/4YL2LzC5rNgMbP+PDGwdiyfhAWxVStw\nO9jPYVEZ9SjA3Wb2hvuGxmCl6jRY3kKx9okEkknUYVLcmcEJBIr1SjUeou+j1QdK\nEgAC7a3dzU/Lfk6QhTMdsZglekbNeG4dv1fCNIy/2UhDgqOQkRDFRBhdsurcYynE\n/Pp42LstAgMBAAECggEAMaX+7yyFTD8uJznpoO0uu/Hdu9nlossZc54BJQvjnWX6\nx6Mn6jAsK5IXO+ITdg2SWz9VR12LWiY5hyvbX3fT7vFyQPyDRRXPItztJLMMHmCo\nAviMVXkD8V/p2SqzMM/j8BrfX/bmCwGD4P1gYQ6lKavzHhyeYW/iVj9dRzmzRdLh\nZAEXqPIGleXu6K0zSKzaDrifPS0eJFROU+FrUuonvO/K6f+PS9jt0+J9iCJSyt63\nyxdbERwS1jON1qJwGSHo3F6thT3iY7hLQCnii8cFU0L7rS5O9uymRTIS7hMMeDou\nylCCW9/73DTxqMRMGR1RAwvxjVFJILL24i0p5LCpYQKBgQD1J1Crbllc8xP4Fp94\nj6E7782aLA4IMhhDHzdaEn33H0k2URFk8dQ2t56tpFVO5P/G3YY1El7OVI9+rx4/\ntAHfuiu8uiOTebou7vxvUNaoBoY2TDz0rU4j7XB61Q8/y281cPL018NqTz+zAKHk\noWoIj7TShyd2RVnMc3QN5DStOQKBgQDbetnFf2PVFtajKs/MPkzc7AWwb1ImjKyz\nAAKKV0OVINyqbJS9BZIuUIOaBqCr4t6Wp7BWc7IA2CJTzW85G7H0btYCdM/uc7av\nRZWtcQa/0jZmG4ZFvgwxmnIG8BxFpK1gwEG77MSU4pasw6XHfkSljAu3QcT6a1iM\nNqEdoUgxlQKBgQCdLhbfw0GSgduEzeRzJQvIZQka1zIr+QprRsFzg7W10x5asAGK\nCi744iPfyyRTECoaNAAPWPbmLXtPSzIGwAAPlMrkFygmLv67hsjdCiSG2KAGgjz2\n14LpMBxU9PPxABsOVZvAdfI54BPEThx+fSuBz7ms3bDkeLSJjGCVY4KOqQKBgQCR\ntZSgNnubu2bRuplsGixDOvpn8O/UIe6Bg88r8tUuSzvUdPOmLe2ni9JizmWa16o4\n0KkULAkP4G2hvzBI9KcHBRJVXSGyR+YPpJ3DINd/P9rXnQxeftZvk/6BtqS+Y56r\nLdg2H/E+etPXbKhBsgV29mvMxQA11FBb/eSm3C0mpQKBgD/cwrE9MyWcunUazbtx\nP3yeXoJZ+c3CTJj/+gx+CpJkVNPeJl+0brgezGO48m1MwDGr/COoIzAxN/SurL8A\nZ3ePUY5gW7pD0E1zWICdwW/B/dfPDPbznI4dsQglujsRDoqP+BzUIli4Fc/KzbdY\nRfjA6fD6SJKie102+uBdugFy\n-----END PRIVATE KEY-----\n",
+  "client_email": "candra2@candra-413965.iam.gserviceaccount.com",
+  "client_id": "109424129648842158063",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/candra2%40candra-413965.iam.gserviceaccount.com"
+}
